@@ -1,5 +1,6 @@
 // Thay đổi nội dung búc thư ở đây
-var letterContent =" Cảm ơn em đã dành thời gian để nhìn những trò trẻ con của anhh và anh có những điều muốn gởi gắm đến tình iu của anhh❤️. Cảm ơn em đã đến bên anhh những lúc anh cô đơn buồn tủi nhất.Cuộc sống thực sự chẳng có ý nghĩa gì nếu không có em. Em làm cho anh luôn cảm thấy đặc biệt và hoàn hảo. Anh chẳng biết nói gì ngoài lời cảm ơn em, anh rất yêu em💕"
+var letterContent =" Xin Chào cục vợ chắc chắn sẽ cưới của anh, nãy giờ vợ anh làm bài có mệt lắm hong, suốt tgian qua anh biết em gặp rất nhiều chuyện và gặp rất nhiều vấn đề trong cuộc sống anh biết anh đã từng rất tệ với em nhưng lần này sau 6 tháng anh đã trưởng thành hơn rất nhiều anh sẽ không nói nữa thay vào đó anh sẽ chứng minh rằng anh thật sự yêu em và muốn bên em như thế nào hì hì, nãy h anh cũng muốn giúp em bên em lắm mà ở xa quá anh chẳng giúp đc gì cho vợ anh nên anh ngồi mò mò viết code này để gửi vợ anh. Vợ anh ơi vợ anh giỏi lắm vợ anh cố lên nha anh luôn bên vợ anh dù có xa nhau bao lâu đi nữa thì anh vẫn luôn bên vợ. ANH THƯƠNG VỢ ANH LẮM
+"
 
 // Tốc độ viết chữ. Số càng nhỏ tốc độ càng nhanh. 50 là tốc độ khá phù hợp
 durationWrite = 50 
